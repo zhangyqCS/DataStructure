@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/hello/Desktop/Qtpic/timelinePillBlue.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/greenStone.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/ledoff.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/ledon.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/lineedit-bg.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/lineedit-bg-focus.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/record.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/redStone.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/ChenHC_看图王.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/background.png</file>
+        <file>C:/Users/hello/Desktop/Qtpic/trackHoriz.png</file>
+        <file>C:/Users/hello/Desktop/bg.png</file>
+        <file>C:/Users/hello/Desktop/20171225231555.jpg</file>
+    </qresource>
+</RCC>
